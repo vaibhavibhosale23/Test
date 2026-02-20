@@ -1,3 +1,3 @@
 <?php
 echo"VAIBHAVI BHOSALE";
-echo"Dhoni";
+echo "Bhosale"
